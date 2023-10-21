@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1695470822 source:/home/edgar/Desktop/Projects/Cppfolder/full_pong_game/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<ball.h>
+	<paddle.h>
+
+1695559083 source:/home/edgar/Desktop/Projects/Cppfolder/full_pong_game/src/ball.cpp
+	<iostream>
+	"ball.h"
+
+1695384440 /home/edgar/Desktop/Projects/Cppfolder/full_pong_game/include/ball.h
+	<SFML/Graphics.hpp>
+
+1695470822 source:/home/edgar/Desktop/Projects/Cppfolder/full_pong_game/src/paddle.cpp
+	<iostream>
+	"paddle.h"
+
+1695378334 /home/edgar/Desktop/Projects/Cppfolder/full_pong_game/include/paddle.h
+	<SFML/Graphics.hpp>
+
